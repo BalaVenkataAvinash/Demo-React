@@ -1,0 +1,27 @@
+.patient-form{
+     margin: 100px;
+     text-align: center;
+     background-color: rgba(0, 0, 0, 0.534);
+     padding: 10px;
+     border-radius: 14px;
+}
+.patient{
+     background-image: url(https://i.pinimg.com/736x/55/74/54/557454f9d762c6b6c9efdaec66b4dbb9.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+     min-height: 90vh;
+     text-align: center;
+}
+.patient p{
+     margin-top: 15px;
+}
+.patient button{
+     margin-top: 15px;
+}
+.patient input{
+     padding: 5px;
+}
+.patient button{
+     padding:5px;
+}
